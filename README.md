@@ -15,7 +15,7 @@ This repository contains the professional certificates, achievements, and partic
 | 3 | AgentForge 2026 Bootcamp | Salesforce | 2026 |
 | 4 | Diploma in Microsoft Excel for Beginners and Experts | Alison | 2025 |
 | 5 | VLSI System on Chip Design | Maven Silicon | 2025 |
-| 6 | Generative AI | Outskill | 2025 |
+| 6 | Generative AI | Outskill | 2026 |
 | 7 | VLSI for Beginners | NIELIT | 2025 |
 | 8 | Smart India Hackathon (SIH) 2025 Volunteer | Smart India Hackathon | 2025 |
 | 9 | TEDxVCE Participation | TEDxVCE | 2025 |
